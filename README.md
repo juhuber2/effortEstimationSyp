@@ -16,6 +16,7 @@ Features:
 <h2>Product Backlog</h2>
 
 Hier sind User-Stories:
+
 •	Als Katzenbesitzer möchte ich eine Checkliste haben, um sicherzustellen, dass alle Gefahrenquellen beseitigt sind, bevor meine Katze einzieht.
 
 •	Als Nutzer möchte ich Tipps zur Eingewöhnung meiner Katze erhalten, um ihr die Eingewöhnung zu erleichtern.
