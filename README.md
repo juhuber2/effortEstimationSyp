@@ -1,9 +1,9 @@
 # effortEstimationSyp
 Mini-Proposal and Product Backlog
 
-Thema: Eine Katze kommt ins Haus.
+<h2>Thema: Eine Katze kommt ins Haus.</h2>
 
-<h2>Mini-Proposal</h2>
+<h3>Mini-Proposal</h3>
 Ziel ist die Entwicklung einer Webseite, die Katzenbesitzern hilft, ihr Haus/Wohnung katzensicher zu machen, wenn sie zum ersten Mal eine Katze nach Hause bringen.
 
 Features:
@@ -16,7 +16,7 @@ Features:
 
 
 
-<h2>Product Backlog</h2>
+<h3>Product Backlog</h3>
 
 Hier sind User-Stories:
 
