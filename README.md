@@ -1,5 +1,5 @@
 # effortEstimationSyp
-Mini-Proposal and Product Backlog
+Mini-Proposal and Product Backlog zum WMC-Projekt.
 
 <h2>Thema: Eine Katze kommt ins Haus.</h2>
 
