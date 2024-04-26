@@ -10,9 +10,9 @@ Im WMC-Projekt geht es um das Thema **"Eine Katze kommt ins Haus".**
 
 Folgende Unterlagen sind - neben dieser README.md-Datei - Teil des Repositories:
 
-[Mini-Proposal](ProjectProposal_WMC_Huber.pdf)
+* [Mini-Proposal](ProjectProposal_WMC_Huber.pdf)
 
-[Product Backlog](ProductBacklog.xlsx) - extern in Excel zu öffnen
+* [Product Backlog](ProductBacklog.xlsx) - extern in Excel zu öffnen
 
 Bei etwaigen Fragen stehe ich gerne zur Verfügung.
 
