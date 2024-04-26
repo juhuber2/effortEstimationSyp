@@ -4,4 +4,4 @@ Dieses Repository wurde im Rahmen des Kurses Systemplanung und Projektentwicklun
 Folgende Unterlagen sind - neben dieser README.md-Datei Teil des Repositories:
 
 Mini-Proposal
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](MiniProposal.md)
