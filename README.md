@@ -3,7 +3,7 @@ Dieses Repository wurde im Rahmen des Kurses Systemplanung und Projektentwicklun
 
 
 ## Thema
-Eine Katze kommt ins Haus.
+Im WMC-Projekt geht es um das Thema "Eine Katze kommt ins Haus".
 
 
 ## Unterlagen
