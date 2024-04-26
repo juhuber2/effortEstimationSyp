@@ -9,3 +9,4 @@ Folgende Unterlagen sind - neben dieser README.md-Datei - Teil des Repositories:
 
 Bei etwaigen Fragen stehen ich gerne zur Verfügung.
 
+![pfote2](https://github.com/juhuber2/effortEstimationSyp/assets/145586660/25908130-369e-4b82-aff6-7772a1be2b0d)
