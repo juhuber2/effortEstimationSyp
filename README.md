@@ -4,3 +4,4 @@ Dieses Repository wurde im Rahmen des Kurses Systemplanung und Projektentwicklun
 Folgende Unterlagen sind - neben dieser README.md-Datei Teil des Repositories:
 
 [Mini-Proposal](SommerprojektHuber_4ACIF.pdf)
+[Product Backlog](ProductBacklog.xlsx)
