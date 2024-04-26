@@ -12,7 +12,7 @@ Folgende Unterlagen sind - neben dieser README.md-Datei - Teil des Repositories:
 
 [Mini-Proposal](ProjectProposal_WMC_Huber.pdf)
 
-[Product Backlog](ProductBacklog.xlsx)
+[Product Backlog](ProductBacklog.xlsx) - extern in Excel zu öffnen
 
 Bei etwaigen Fragen stehe ich gerne zur Verfügung.
 
