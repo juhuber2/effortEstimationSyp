@@ -4,4 +4,4 @@ Dieses Repository wurde im Rahmen des Kurses Systemplanung und Projektentwicklun
 Folgende Unterlagen sind - neben dieser README.md-Datei Teil des Repositories:
 
 Mini-Proposal
-[Contribution guidelines for this project](SommerprojektHuber_4ACIF.pdf)
+[Mini-Proposal](SommerprojektHuber_4ACIF.pdf)
