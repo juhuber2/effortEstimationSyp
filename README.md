@@ -3,7 +3,7 @@
 
 
 # Thema
-Im WMC-Projekt geht es um das Thema **"Eine Katze kommt ins Haus".**
+Im WMC-Projekt geht es um das Thema **"Eine Katze kommt ins Haus".** Die Informationen hierfür sollen auf einer Webseite mit 2-3 Unterseiten angezeigt werden.
 
 
 # Unterlagen
