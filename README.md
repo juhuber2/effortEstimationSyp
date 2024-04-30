@@ -8,7 +8,7 @@ Im WMC-Projekt geht es um das Thema **"Eine Katze kommt ins Haus".** Die Informa
 
 # Unterlagen
 
-Folgende Unterlagen sind - neben dieser README.md-Datei - Teil des Repositories:
+Folgende Unterlagen sind - neben dieser README-Datei - Teil des Repositories:
 
 * [Mini-Proposal](ProjectProposal_WMC_Huber.pdf)
 
